@@ -207,4 +207,3 @@ func parseBindAddress(bindAddress string) (string, int) {
 
 	return "", 0
 }
-# TEMP
